@@ -13,5 +13,6 @@ return {
     end,
   },
 	'tpope/vim-rhubarb',
+  'tpope/vim-commentary',
 	'mfussenegger/nvim-ansible',
 }
