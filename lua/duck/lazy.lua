@@ -17,6 +17,7 @@ lazy.setup({
 	'mbbill/undotree',
 	'tpope/vim-fugitive',
 	'tpope/vim-rhubarb',
+	'mfussenegger/nvim-ansible',
 	{
 		'nvim-telescope/telescope.nvim',
 		branch = '0.1.x',
