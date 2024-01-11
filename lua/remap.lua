@@ -16,3 +16,6 @@ vim.keymap.set("n", "<leader>x", "<cmd>!chmod +x %<CR>", { silent = true })
 
 vim.keymap.set("n", "<leader>gb", vim.cmd.GBrowse)
 vim.keymap.set("n", "<leader>gb", ":'<,'> GBrowse")
+
+vim.keymap.set("n", "<A-j>", ":cnext<CR>")
+vim.keymap.set("n", "<A-k>", ":cprev<CR>")
