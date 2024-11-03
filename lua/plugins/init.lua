@@ -9,4 +9,5 @@ return {
 	'tpope/vim-rhubarb',
   'tpope/vim-commentary',
 	'mfussenegger/nvim-ansible',
+  'towolf/vim-helm',
 }
